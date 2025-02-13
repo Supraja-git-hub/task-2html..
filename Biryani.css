@@ -1,0 +1,30 @@
+.one{
+    display: flex;
+    justify-content: space-between;
+}
+.Biryani {
+    width: 22%;
+    background: white;
+    border-radius: 2px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    
+}
+.Biryani img {
+    width: 50%;
+    height:70px;
+}
+.Biryani-container {
+    padding: 15px;
+
+}
+.Biryani p {
+    color: #555;
+}
+.Biryani button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px ;
+    border-radius: 5px;
+}
